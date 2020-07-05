@@ -58,6 +58,7 @@
      <Compile Include="Assets\CamMovement.cs" />
      <Compile Include="Assets\OtherScript.cs" />
      <Compile Include="Assets\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\GeneralScripts\OpenDoor.cs" />
      <Compile Include="Assets\TestScript.cs" />
      <None Include="Assets\Samples\Polybrush\1.0.1\Shader Examples (Standard)\Shader\StandardVertexColor.shader" />
      <None Include="Assets\Samples\Polybrush\1.0.1\Shader Examples (Standard)\Shader\StandardTextureBlend.shader" />
